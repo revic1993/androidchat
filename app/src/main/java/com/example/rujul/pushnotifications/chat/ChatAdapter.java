@@ -15,10 +15,6 @@ import com.example.rujul.pushnotifications.database.chat;
 
 import java.util.List;
 
-
-/**
- * Created by rujul on 1/25/2016.
- */
 public class ChatAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder> {
 
 
