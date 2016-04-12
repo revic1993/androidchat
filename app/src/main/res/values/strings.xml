@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Pushnotifications</string>
+    <string name="action_settings">Settings</string>
+    <string name="gcm_sender_id">169211851665</string>
+
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_user_details">UserDetails</string>
+    <string name="title_activity_chat">ChatActivity</string>
+</resources>
